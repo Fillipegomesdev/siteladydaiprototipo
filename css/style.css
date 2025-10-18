@@ -175,7 +175,7 @@ p {
   padding: 6rem 1.25rem 3rem;
   background: 
     linear-gradient(135deg, rgba(10, 10, 10, 0.9) 0%, rgba(26, 26, 26, 0.85) 100%),
-    url('fundosobre.jpg') center/cover no-repeat fixed;
+    url('./img/fundosobre.jpg') center/cover no-repeat fixed;
   position: relative;
   text-align: center;
 }
@@ -519,7 +519,6 @@ p {
 .service-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(255, 199, 0, 0.9);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -723,10 +722,9 @@ p {
 .contact-link:hover {
   transform: scale(1.05);
 }
-
+/*CONTAINER DE AGENDAMENTO*/
 .booking-form-wrapper {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 199, 0, 0.2);
+  border: 1px solid var(--amarelo);
   border-radius: 16px;
   padding: 2rem 1.5rem;
   backdrop-filter: blur(10px);
@@ -755,8 +753,9 @@ p {
 .form-group select,
 .form-group textarea {
   padding: 0.875rem 1rem;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 199, 0, 0.2);
+  background: rgba(255, 255, 255, 0.1);  /* Antes: 0.05. Dobramos o brilho do fundo. */
+  border: 1px solid rgba(255, 199, 0, 0.4); /* Antes: 0.2. Borda 2x mais visível. */
+  color: #fff; /* Adicionado: Garante que o texto DIGITADO seja branco. */
   border-radius: 8px;
   font-size: 1rem;
   font-family: inherit;
@@ -775,11 +774,17 @@ p {
 
 .form-group input::placeholder,
 .form-group textarea::placeholder {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.6); /* Antes: 0.4. Texto do placeholder mais claro. */
 }
 
 .form-group select {
   cursor: pointer;
+}
+
+/* Adicione esta regra ao seu CSS */
+.form-group select option {
+  color: #000; /* Define o texto das opções como preto */
+  background: #fff; /* Garante que o fundo de cada opção seja branco */
 }
 
 .form-group textarea {
