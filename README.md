@@ -6,9 +6,9 @@ Neste projeto, compreendi como a IA pode potencializar o desenvolvimento, mas ta
 que é fundamental dominar a lógica e a estrutura do código para ter total controle
 sobre o resultado final da interface.
 
-📖 Lições Aprendidas:
-IA como Ferramenta de Apoio: Excelente para prototipagem rápida e busca de soluções.
+📖 Lições Aprendidas
 
+IA como Ferramenta de Apoio: Excelente para prototipagem rápida e busca de soluções.
 Fundamentos de Código: A base técnica é essencial para garantir a acessibilidade e a manutenção do projeto a longo prazo.
 
 Atualmente, foco em projetos com semântica avançada e arquitetura robusta.
