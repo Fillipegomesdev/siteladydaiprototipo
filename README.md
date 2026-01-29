@@ -9,6 +9,7 @@ sobre o resultado final da interface.
 📖 Lições Aprendidas
 
 IA como Ferramenta de Apoio: Excelente para prototipagem rápida e busca de soluções.
+
 Fundamentos de Código: A base técnica é essencial para garantir a acessibilidade e a manutenção do projeto a longo prazo.
 
 Atualmente, foco em projetos com semântica avançada e arquitetura robusta.
