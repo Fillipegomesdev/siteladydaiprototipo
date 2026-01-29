@@ -1,4 +1,5 @@
 ⚠️ Repositório de Estudos Iniciais
+
 Este foi um dos meus primeiros experimentos práticos, onde o foco principal era a entrega rápida
 e a exploração de ferramentas de IA (como ChatGPT, Gemini e Manus) para acelerar a codificação.
 Neste projeto, compreendi como a IA pode potencializar o desenvolvimento, mas também percebi
