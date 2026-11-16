@@ -21,4 +21,4 @@ Neste projeto, compreendi profundamente como a IA pode potencializar o fluxo de 
 
 Atualmente, concentro meus estudos e desenvolvimento em projetos com arquitetura limpa e semântica avançada. 
 
-[Acesse o meu Portfólio Atual](https://fillipegomesdev.github.io/Portfolio_responsivo/)
+[Acesse o site ao vivo](https://fillipegomesdev.github.io/siteladydaiprototipo/)
