@@ -1,17 +1,24 @@
-⚠️ Repositório de Estudos Iniciais
+# 🧪 Laboratório de Estudos e Prototipagem com IA
 
-Este foi um dos meus primeiros experimentos práticos, onde o foco principal era a entrega rápida
-e a exploração de ferramentas de IA (como ChatGPT, Gemini e Manus) para acelerar a codificação.
-Neste projeto, compreendi como a IA pode potencializar o desenvolvimento, mas também percebi
-que é fundamental dominar a lógica e a estrutura do código para ter total controle
-sobre o resultado final da interface.
+Este repositório reúne meus primeiros experimentos práticos no desenvolvimento front-end, com foco na exploração de ferramentas de inteligência artificial (como ChatGPT, Gemini e Manus) para acelerar a codificação e a prototipagem rápida.
 
-📖 Lições Aprendidas
+---
 
-IA como Ferramenta de Apoio: Excelente para prototipagem rápida e busca de soluções.
+## 🎯 Propósito e Visão
 
-Fundamentos de Código: A base técnica é essencial para garantir a acessibilidade e a manutenção do projeto a longo prazo.
+Neste projeto, compreendi profundamente como a IA pode potencializar o fluxo de trabalho, mas percebi na prática que dominar a lógica, a semântica e a estrutura do código é indispensável para ter total controle sobre o resultado final da interface.
 
-Atualmente, foco em projetos com semântica avançada e arquitetura robusta.
-Abaixo segue o link do meu portfolio atual 
-https://fillipegomesdev.github.io/Portfolio_responsivo/
+---
+
+## 📖 Lições Aprendidas
+
+* **IA como Ferramenta de Apoio:** Excelente aliada para acelerar a curva de aprendizado, estruturar rascunhos e buscar caminhos de solução.
+* **Fundamentos de Código:** A base técnica sólida é inegociável para garantir manutenibilidade, semântica correta e qualidade de software a longo prazo.
+
+---
+
+## 🚀 Evolução e Projeto Atual
+
+Atualmente, concentro meus estudos e desenvolvimento em projetos com arquitetura limpa e semântica avançada. 
+
+[Acesse o meu Portfólio Atual](https://fillipegomesdev.github.io/Portfolio_responsivo/)
